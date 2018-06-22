@@ -4,8 +4,8 @@
 [![forthebadge](https://forthebadge.com/images/badges/ages-12.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 
-![Img](reademeImg\微信截图_20180622131237.png)
-![Img](reademeImg\微信截图_20180622131314.png)
+![Img](https://github.com/QA0w0AQ/reactnd-project-myreads-starter/blob/master/reademeImg/%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_20180622131237.png)
+![Img](https://github.com/QA0w0AQ/reactnd-project-myreads-starter/blob/master/reademeImg/%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_20180622131314.png)
 
 This project is about bookshelf, you can search somebooks and mark them!
 
